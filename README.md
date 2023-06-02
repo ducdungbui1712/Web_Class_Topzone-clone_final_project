@@ -1,7 +1,14 @@
 # Web_Class_Topzone-clone_final_project
-Cách chạy ứng dụng web bằng localhost
-Bước 1: cài đặt ứng dụng XAMPP
-Bước 2: Sau khi đã cài đặt, di chuyển hoặc sao chép thư mục ck-web vào thư mục htdocs của Thư mục xampp vừa cài
-Bước 3: Mở ứng dụng XAMPP
-Bước 4: Nhấn Start ở 2 mục apache và SQL
-Bước 5: Có thể nhấn ở phần admin để đi đến localhost và đổi url theo thư mục hoặc vào browser nhấn localhost/ck-web/index.php
+* Cloning topzone website, https://www.topzone.vn/
+
+## My project's score
+* Score: 8/10
+
+## Run code with XAMPP
+* Step 1: Install XAMPP application.
+* Step 2: Once installed, move or copy the code in source folder and database.sql to the htdocs folder of the installed XAMPP folder (delete all files and folders in htdocs before moving our code in).
+* Step 3: Open XAMPP application
+* Step 4: Click Start button in 2 items Apache and MySQL
+* Step 5: Click Admin button in MySQL to open MySQL 
+* Step 6: Import database.sql to MySQL
+* Step 7: Click Admin button in Apache to open our project in localhost
