@@ -1,0 +1,184 @@
+footer {
+    width: 100%;
+    background: #101010;
+}
+
+.foot {
+    width: 100%;
+    max-width: 1200px;
+    min-width: 1024px;
+    margin: auto;
+    display: block;
+    padding-bottom: 10px;
+}
+
+.logo-foot {
+    display: block;
+    overflow: hidden;
+    padding: 30px 0;
+}
+
+.logo-foot a:first-child {
+    padding: 0 10px 0 0;
+    border-right: 1px solid #3b3b3b;
+    margin-right: 10px;
+}
+
+.logo-foot a {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.list-foot {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    border-bottom: 1px solid #333;
+    padding: 0 0 30px;
+}
+
+.list-foot li {
+    float: left;
+    width: 23%;
+}
+
+.list-foot li span {
+    display: block;
+    overflow: hidden;
+    color: #fff;
+    font-size: 15px;
+    line-height: 20px;
+    padding: 0 0 8px;
+    font-weight: 500;
+}
+
+.list-foot li a {
+    display: block;
+    overflow: hidden;
+    font-size: 13px;
+    line-height: 18px;
+    padding: 0 0 10px;
+    color: #e5e5e5;
+}
+
+.list-foot li a:hover {
+    color: #2997ff;
+}
+
+.color-link {
+    color: #2997ff !important;
+}
+
+.list-foot li a span {
+    display: inline-block;
+    width: 68px;
+    padding: 0;
+    font-size: 13px;
+    line-height: 18px;
+    overflow: unset;
+}
+
+.list-foot li a b {
+    font-weight: 400;
+    color: #2997ff;
+}
+
+.text-cpr {
+    display: inline-block;
+    overflow: hidden;
+    padding: 22px 0;
+    max-width: 60%;
+}
+
+.text-cpr p {
+    display: block;
+    overflow: hidden;
+    font-size: 11px;
+    line-height: 14px;
+    color: #666;
+}
+
+.certify {
+    display: inline-block;
+    float: right;
+    padding: 10px 0 0 10px;
+}
+
+.certify a {
+    display: inline-block;
+    margin-left: 22px;
+    vertical-align: middle;
+}
+
+.footer__logo {
+    background-color: #222;
+    padding: 15px 15px 5px;
+    text-align: center;
+}
+
+.footer__logo-hd {
+    color: #757575;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.footer__logo-list {
+    font-size: 0;
+    margin-top: 15px;
+}
+
+.footer__logo-list li {
+    display: inline-block;
+    margin: 0 5px 10px;
+}
+
+.footer__logo-list li a {
+    display: block;
+}
+
+[class^="iconlogo-"], [class*="iconlogo-"] {
+    background-image: url(../img/Footer_img/footer_logo/icon_logo@2x.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 40px;
+    width: 133px;
+    line-height: 30px;
+    vertical-align: middle;
+    background-size: 300px 425px;
+}
+
+.iconlogo-thegioididong {
+    background-position: -145px -100px;
+}
+
+.iconlogo-dienmayxanh {
+    background-position: 0 -150px;
+}
+
+.iconlogo-bachhoaxanh {
+    background-position: 0 -100px;
+}
+
+.iconlogo-ankhang {
+    background-position: -145px -284px;
+}
+
+.iconlogo-kids {
+    background-position: -145px -150px;
+}
+
+.iconlogo-sport {
+    background-position: 0 0;
+}
+
+.iconlogo-tantam {
+    background-position: 0 -330px;
+}
+
+.iconlogo-4kfarm {
+    background-position: -145px -330px;
+}
+
+.iconlogo-vieclam {
+    background-position: 0 -378px;
+}
